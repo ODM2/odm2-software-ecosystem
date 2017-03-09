@@ -1,5 +1,5 @@
 # Welcome to the ODM2 Organization
-This is a meta-repository to help navigate the many repositories under the ODM2 GitHub Organization.
+This is a meta-repository to help navigate the many repositories under the [ODM2 GitHub Organization](https://github.com/ODM2).
 
 The ODM2 development team is a group of researchers working across geoscience disciplines to develop and implement an information model and supporting software tools for collecting, storing, managing, and sharing feature-based Earth Observations in a way that extends interoperability, improves data sharing, and supports scientific research. 
 
