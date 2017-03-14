@@ -16,6 +16,7 @@ The following are all active development repositories for different tools relate
     * SQLite
 * SQL scripts to create blank instances of ODM2 databases
 * SQL script(s) to convert ODM 1.1.1 databases to ODM2 databases
+* [Python script to automatically load CV terms](https://github.com/ODM2/ODM2/tree/master/src/load_cvs) from the master lists at http://vocabulary.odm2.org into a blank instance of an ODM2 database.
 * [https://github.com/ODM2/ODM2](https://github.com/ODM2/ODM2) 
 
 **ODM2 Controlled Vocabularies**:  A Python/Django-based web application for managing the ODM2 controlled vocabularies
