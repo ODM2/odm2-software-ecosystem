@@ -114,21 +114,3 @@ ODM2 draws heavily from our prior work with the CUAHSI Hydrologic information sy
 
 # References
 [See a full list of ODM2 related references](https://github.com/ODM2/ODM2/wiki/References)
-
-Cox, S.J.D. (2007a). Observations and Measurements - Part 1 - Observation schema, OGC Implementation Specification, OGC 07-022r1. 73 + xi. http://portal.opengeospatial.org/files/22466.
- 
-Cox, S.J.D. (2007b). Observations and Measurements – Part 2 - Sampling Features, OGC Implementation Specification, OGC 07-002r3. 36 + ix. http://portal.opengeospatial.org/files/22467.
- 
-Cox, S.J.D. (2011a). Geographic Information - Observations and Measurements, OGC Abstract Specification Topic 20 (same as ISO 19156:2011), OGC 10-004r3. 54. http://dx.doi.org/10.13140/2.1.1142.3042.
- 
-Cox, S.J.D. (2011b). Observations and Measurements - XML Implementation, OGC Implementation Standard, OGC 10-025r1. 66 + x. http://portal.opengeospatial.org/files/41510 (accessed September 16, 2014).
-
-Horsburgh, J.S., D.G. Tarboton, D.R. Maidment, and I. Zaslavsky (2008). A relational model for environmental and water resources data, Water Resources Research, 44, W05406, http://dx.doi.org/10.1029/2007WR006392.
-
-Horsburgh, J.S., D.G. Tarboton (2008). CUAHSI Community Observations Data Model (ODM) Version 1.1.1 Design Specifications, CUAHSI Open Source Software Tools, http://www.codeplex.com/Download?ProjectName=HydroServer&DownloadId=349176. 
-
-ISO 19156:2011 - Geographic information -- Observations and Measurements, International Standard (2011), International Organization for Standardization, Geneva. http://dx.doi.org/10.13140/2.1.1142.3042.
-
-Lehnert, K.A., Walker, D., Vinay, S., Djapic, B., Ash, J., Falk, B. (2007). Community-Based Development of Standards for Geochemical and Geochronological Data, Eos Trans. AGU, 88(52), Fall Meet. Suppl., Abstract IN52A-09.
-
-Lehnert, K.A., Walker, D., Block, K.A., Ash, J.M., Chan, C. (2009). EarthChem: Next developments to meet new demands, American Geophysical Union, Fall Meeting 2009, Abstract #V12C-01.
