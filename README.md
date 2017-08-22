@@ -71,9 +71,9 @@ The following are all active development repositories for different tools relate
 * Uses the ODM2 Equipment extension
 * [https://github.com/UCHIC/ODM2Sensor](https://github.com/UCHIC/ODM2Sensor) 
 
-**WaterOneFlow for ODM2**:  A Python/Django-based web service for publishing time series observations stored in an ODM2 database.
-* Uses an implementation of WOFPy
-* Limited to time series Results from ODM2
+**WaterOneFlow for ODM2**:  A Python web service for publishing time series observations stored in an ODM2 database using standard CUAHSI WaterOneFlow interface and WaterML XML encoding.
+* Based on WOFPy
+* Currently limited to time series Results from ODM2
 * [https://github.com/ODM2/WOFpy](https://github.com/ODM2/WOFpy) 
 
 **ODM2 RESTful Web Services**: A RESTful web service interface for delivering data from an ODM2 database
