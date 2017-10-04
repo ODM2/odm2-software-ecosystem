@@ -105,12 +105,12 @@ The following are all active development repositories for different tools relate
 * Provides data input capabilities
 * Includes simple data visualizations for time series and environmental specimens
 * Functionality for managing data derived from environmental specimens
-* [https://github.com/miguelcleon/ODM2-Admin](https://github.com/miguelcleon/ODM2-Admin)
+* [https://github.com/ODM2/ODM2-Admin](https://github.com/ODM2/ODM2-Admin)
 
 # Support and Credits
 ODM2 and related software have been developed under funding from several different sources. This work was supported by National Science Foundation Grants [EAR-1224638](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1224638), [ACI-1339834](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1339834)). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. 
 
-ODM2 draws heavily from our prior work with the CUAHSI Hydrologic information system and ODM 1.1.1 (Horsburgh et al., 2008; Horsburgh and Tarboton, 2008), our experiences workin on the Critical Zone Observatory Integrated Data Management System (CZOData), and our experiences with the EarthChem systems (e.g., Lehnert et al., 2007; Lehnert et al., 2009). It also extensively uses concepts from the Open Geospatial Consortium's Observations & Measurements standard (Cox, 2007a; Cox, 2007b; Cox, 2011a; Cox, 2011b; ISO, 2011).
+ODM2 draws heavily from our prior work with the CUAHSI Hydrologic information system and ODM 1.1.1 (Horsburgh et al., 2008; Horsburgh and Tarboton, 2008), our experiences working on the Critical Zone Observatory Integrated Data Management System (CZOData), and our experiences with the EarthChem systems (e.g., Lehnert et al., 2007; 2009). It also extensively uses concepts from the Open Geospatial Consortium's Observations & Measurements standard (Cox, 2007a; 2007b; 2011a; 2011b; ISO, 2011).
 
 # References
 [See a full list of ODM2 related references](https://github.com/ODM2/ODM2/wiki/References)
